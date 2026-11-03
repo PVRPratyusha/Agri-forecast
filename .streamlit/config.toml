@@ -1,0 +1,8 @@
+[theme]
+# Applied before the app's own CSS loads, so the first paint is already green instead of white
+base = "light"
+primaryColor = "#2E5A31"
+backgroundColor = "#F0F4F0"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#333333"
+font = "sans serif"
